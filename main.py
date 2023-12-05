@@ -5,5 +5,3 @@ if n % 2 == 0:
 else:
     print("%d is an odd number" % n)
     Enter a number: 48
-    
-    
